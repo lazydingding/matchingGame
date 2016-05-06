@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Mike
+Build-Jdk: 1.6.0_26
+Specification-Title: MiGLayout
+Specification-Version: 4.0
+Implementation-Title: MiGLayout
+Implementation-Version: 4.0
+Implementation-Vendor-Id: com.miglayout
+
