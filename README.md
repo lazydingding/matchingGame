@@ -15,4 +15,4 @@ Jave SE 8
 * 终端(命令提示符)输入 java -jar matchingGame.jar
 
 ## 游戏截图
-![](http://i2.piimg.com/567571/8374ca002f7ab6a6.png)
+![](https://github.com/lazydingding/matchingGame/blob/master/screenshot.png)
